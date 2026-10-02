@@ -23,7 +23,7 @@
                 ["Peito", "Perna", "Costas", "Superiores", "Inferiores"],
                 ["Quadriceps", "Superiores", "Posterior", "Glúteos", "Abdomen"],
                 ["Posterior de Dorsal", "Inferior de Bacia", "Esternocleidomastóideo"],
-                ["Peito", "bíceps", "Peito", "Antebraço", "Peito", "Glúteos", "Peito do pé"],
+                ["Peito", "Glúteos", "Peito", "Glúteos", "Peito", "Glúteos", "Peito"],
                 ["Pescoço", "Glúteos"]
             ];
 
